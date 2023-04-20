@@ -8,7 +8,7 @@ import {Nearbyjobs, Popularjobs, ScreenHeaderBtn, Welcome} from '../components'
 const Home = () => {
     return (
     <View>
-        <Text>Home</Text>
+        <Text>Home is mine</Text>
     </View>
    )
 }
